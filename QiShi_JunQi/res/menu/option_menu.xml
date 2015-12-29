@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/scan"
+          android:title="@string/connect" />
+    <item android:id="@+id/discoverable"
+          android:title="@string/discoverable" />
+    <item android:id="@+id/layout_ok_item"
+          android:title="@string/layout_ok" />
+             
+    <item android:id="@+id/show_cmap"
+          android:title="显示明棋" />
+    <item android:id="@+id/noshow_cmap"
+          android:title="关闭明棋" />
+   <item android:id="@+id/close_sound_item"
+          android:title="@string/sound_text" />
+   <item android:id="@+id/open_sound_item"
+          android:title="打开声音" />
+    
+   <item android:id="@+id/send_item"
+          android:title="@string/stringSendMsg" />
+   
+   <item android:id="@+id/quit_item"
+          android:title="@string/quit" />
+</menu>

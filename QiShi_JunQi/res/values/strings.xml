@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">骑士军棋</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Kills">安卓版军棋</string>
+	<string name="app_ver">V1.0</string>
+    <string name="app_author">作者：李良权</string>
+      
+    <string name="layout_ok">完成布局</string>
+    <string name="start_game">开始游戏</string>
+    
+    <string name="sound_text">关闭声音</string>
+        
+    <string name="restart">重新开始</string>
+    <string name="callin_lineup">调入布局</string>
+    <string name="save_lineup">保存布局</string>
+    <string name="about">关于</string>
+    <string name="quit">退出</string>
+    <string name="completed">完成！</string>
+    <string name="cancelled">取消！</string>
+    <string name="err_null_lineup">错误提示：布局文件为空！</string>
+    
+    <string name="victory">胜利！</string>
+    <string name="failed">失败！</string>
+   
+    <string name="stringSendMsg">发送消息</string>
+    
+    <string name="listview_lineup">布局</string>
+    <string name="listview_lineup_null"> (空)</string>
+
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="quit_confirmation">确定退出程序吗?</string>
+    
+    <string name="about_info">coderfight</string>
+    <string name="blank_info"></string>
+    
+    <!--  BluetoothChat -->
+    <string name="send">发送</string>
+    <string name="not_connected">没有连接设备</string>
+    <string name="bt_not_enabled_leaving">蓝牙不可用</string>
+    <string name="title_connecting">正在连接</string>
+    <string name="title_connected_to">已连接 </string>
+    <string name="title_not_connected">未连接蓝牙设备..</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">查找蓝牙设备</string>
+    <string name="select_device">连接蓝牙设备</string>
+    <string name="none_paired">无已配对设备</string>
+    <string name="none_found">没有查找到设备</string>
+    <string name="title_paired_devices">已配对设备</string>
+    <string name="title_other_devices">其他可用设备</string>
+    <string name="button_scan">查找蓝牙设备</string>
+
+    <!-- Options Menu -->
+    <string name="connect">连接蓝牙设备</string>
+    <string name="discoverable">设置本地可见</string>
+</resources>
